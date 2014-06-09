@@ -1,0 +1,4 @@
+Hybrid-Engine-Simulator
+=======================
+
+With increasing oil price and mounting environment concerns and increasing number of cars in our modern society, cleaner and sustainable energy solutions have been demanded. Hybrid electrical vehicle is the best solution. In hybrid electric vehicle, it combines an internal combustion engine and electric motor powered by batteries, gives the best features of today’s combustion engine cars and electric vehicles. This combination allows the electric motor and a battery to make conventional engine more efficient, which thus reduces the fuel use gives the best mileage. We design a system that supports the process of simulating a hybrid engine system adopting a use-case driven object-oriented approach. We design a hybrid system which operates in six mode that are Eclectic Vehicle mode, Cruise mode, Overdrive mode, Battery charge mode, Power boost mode and Negative split mode.
